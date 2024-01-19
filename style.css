@@ -9,3 +9,10 @@
     background-color: rgb(109, 155, 241);
     border: dashed 3px black;
 } */
+
+
+/* Stile input form */
+form .my_input::placeholder {
+    color: #2c3e50;
+    font-weight: 500;
+}
